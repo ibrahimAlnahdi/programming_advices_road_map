@@ -1,0 +1,7 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\structure\structure\bin\Debug\structure.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\structure\structure\bin\Debug\structure.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\structure\structure\bin\Debug\structure.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\structure\structure\obj\Debug\structure.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\structure\structure\obj\Debug\structure.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\structure\structure\obj\Debug\structure.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\structure\structure\obj\Debug\structure.pdb

@@ -1,0 +1,7 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\anonymous_type\anonymous_type\bin\Debug\anonymous_type.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\anonymous_type\anonymous_type\bin\Debug\anonymous_type.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\anonymous_type\anonymous_type\bin\Debug\anonymous_type.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\anonymous_type\anonymous_type\obj\Debug\anonymous_type.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\anonymous_type\anonymous_type\obj\Debug\anonymous_type.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\anonymous_type\anonymous_type\obj\Debug\anonymous_type.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\anonymous_type\anonymous_type\obj\Debug\anonymous_type.pdb
