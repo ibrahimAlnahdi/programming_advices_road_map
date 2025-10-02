@@ -20,6 +20,8 @@ namespace dynamic_type
             Console.WriteLine($"value : {myDynamicVar} , Type : {myDynamicVar.GetType()}");
             myDynamicVar = DateTime.Now;
             Console.WriteLine($"value : {myDynamicVar} , Type : {myDynamicVar.GetType()}");
+             myDynamicVar = "end of program";
+            Console.WriteLine($"value : {myDynamicVar} , Type : {myDynamicVar.GetType()}");
 
         }
     }
