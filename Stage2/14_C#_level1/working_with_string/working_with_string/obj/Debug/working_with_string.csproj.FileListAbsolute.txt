@@ -1,0 +1,8 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\working_with_string\working_with_string\bin\Debug\working_with_string.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\working_with_string\working_with_string\bin\Debug\working_with_string.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\working_with_string\working_with_string\bin\Debug\working_with_string.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\working_with_string\working_with_string\obj\Debug\working_with_string.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\working_with_string\working_with_string\obj\Debug\working_with_string.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\working_with_string\working_with_string\obj\Debug\working_with_string.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\working_with_string\working_with_string\obj\Debug\working_with_string.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\working_with_string\working_with_string\obj\Debug\working_with_string.pdb

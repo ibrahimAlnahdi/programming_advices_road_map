@@ -60,13 +60,13 @@ namespace working_with_date_and_time
             DateTime date2 = new DateTime(2023, 6, 25);
             TimeSpan result = date2.Subtract(date1);
             Console.WriteLine($"Subtracion : {result}");
-            var str = "60/12/2023";
+            var str = "6/12/2023";
             DateTime date;
-            DateTime.TryParse(str, out date);
-           // if (isValidDate)
+            var isValidDate = DateTime.TryParse(str, out date);
+            if (isValidDate)
                 Console.WriteLine(date);
-           // else
-            //    Console.WriteLine("not valid date");
+            else
+                Console.WriteLine("not valid date");
         }
     }
 }
