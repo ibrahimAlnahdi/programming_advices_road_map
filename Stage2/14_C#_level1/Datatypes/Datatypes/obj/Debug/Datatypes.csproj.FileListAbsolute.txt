@@ -1,0 +1,8 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\Datatypes\Datatypes\bin\Debug\Datatypes.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\Datatypes\Datatypes\bin\Debug\Datatypes.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\Datatypes\Datatypes\bin\Debug\Datatypes.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\Datatypes\Datatypes\obj\Debug\Datatypes.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\Datatypes\Datatypes\obj\Debug\Datatypes.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\Datatypes\Datatypes\obj\Debug\Datatypes.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\Datatypes\Datatypes\obj\Debug\Datatypes.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\Datatypes\Datatypes\obj\Debug\Datatypes.pdb
