@@ -1,0 +1,8 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\dynamic_type\dynamic_type\bin\Debug\dynamic_type.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\dynamic_type\dynamic_type\bin\Debug\dynamic_type.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\dynamic_type\dynamic_type\bin\Debug\dynamic_type.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\dynamic_type\dynamic_type\obj\Debug\dynamic_type.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\dynamic_type\dynamic_type\obj\Debug\dynamic_type.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\dynamic_type\dynamic_type\obj\Debug\dynamic_type.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\dynamic_type\dynamic_type\obj\Debug\dynamic_type.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\dynamic_type\dynamic_type\obj\Debug\dynamic_type.pdb

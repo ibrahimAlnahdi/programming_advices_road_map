@@ -16,7 +16,9 @@ namespace structure
         }
         static void Main(string[] args)
         {
-            stStudent Student = new stStudent();
+            //A struct object can be created with or without the new operator,
+            //same as primitive type variables.
+            stStudent Student = new stStudent(); // when you use new keyword -> no compile error (default value) 
             stStudent student2;
             student2.Class = 9;
             student2.Name = "abu-baker";
