@@ -41,7 +41,7 @@ namespace type_casting
             // Casting Enums 
 
 
-            Console.WriteLine(WeekDays.Friday);// 4
+            Console.WriteLine(WeekDays.Friday);
             int day = (int) WeekDays.Friday;
             Console.WriteLine(day); // 4
 
