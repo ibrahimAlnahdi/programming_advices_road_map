@@ -36,6 +36,18 @@ namespace working_with_string
             Console.WriteLine(S3.TrimStart());
             Console.WriteLine(S3.TrimEnd());
 
+            //  String Interpolation
+
+            string firstName = "Mohammed";
+            string lastName = "Abu-Hadhoud";
+            string code = "107";
+
+            //You shold use $ to $ to identify an interpolated string 
+            string fullName = $"Mr. {firstName} {lastName}, Code: {code}";
+
+            Console.WriteLine(fullName);
+            Console.WriteLine(@"welcom \nser \tsalem you are ''"); // use @ to ignore escape characters
+
         }
     }
 }

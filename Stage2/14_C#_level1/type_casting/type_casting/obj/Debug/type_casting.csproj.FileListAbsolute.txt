@@ -1,0 +1,8 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\type_casting\type_casting\bin\Debug\type_casting.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\type_casting\type_casting\bin\Debug\type_casting.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\type_casting\type_casting\bin\Debug\type_casting.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\type_casting\type_casting\obj\Debug\type_casting.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\type_casting\type_casting\obj\Debug\type_casting.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\type_casting\type_casting\obj\Debug\type_casting.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\type_casting\type_casting\obj\Debug\type_casting.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\type_casting\type_casting\obj\Debug\type_casting.pdb
