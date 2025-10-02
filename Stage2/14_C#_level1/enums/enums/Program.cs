@@ -49,7 +49,7 @@ namespace enums
         {
 
             enWeekDays WeekDays;
-            enWeekDays firstDay = default;
+            enWeekDays firstDay = default; // first value = 0 
 
             WeekDays = enWeekDays.Friday;
             Console.WriteLine(firstDay);
