@@ -1,0 +1,7 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\default_values\default_values\bin\Debug\default_values.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\default_values\default_values\bin\Debug\default_values.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\default_values\default_values\bin\Debug\default_values.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\default_values\default_values\obj\Debug\default_values.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\default_values\default_values\obj\Debug\default_values.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\default_values\default_values\obj\Debug\default_values.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\default_values\default_values\obj\Debug\default_values.pdb
