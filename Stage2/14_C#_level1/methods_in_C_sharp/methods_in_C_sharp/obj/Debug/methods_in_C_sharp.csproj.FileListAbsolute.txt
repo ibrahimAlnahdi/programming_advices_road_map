@@ -1,0 +1,8 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\methods_in_C_sharp\methods_in_C_sharp\bin\Debug\methods_in_C_sharp.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\methods_in_C_sharp\methods_in_C_sharp\bin\Debug\methods_in_C_sharp.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\methods_in_C_sharp\methods_in_C_sharp\bin\Debug\methods_in_C_sharp.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\methods_in_C_sharp\methods_in_C_sharp\obj\Debug\methods_in_C_sharp.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\methods_in_C_sharp\methods_in_C_sharp\obj\Debug\methods_in_C_sharp.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\methods_in_C_sharp\methods_in_C_sharp\obj\Debug\methods_in_C_sharp.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\methods_in_C_sharp\methods_in_C_sharp\obj\Debug\methods_in_C_sharp.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\methods_in_C_sharp\methods_in_C_sharp\obj\Debug\methods_in_C_sharp.pdb
