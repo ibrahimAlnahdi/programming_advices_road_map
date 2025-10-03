@@ -1,0 +1,7 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\math\math\bin\Debug\math.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\math\math\bin\Debug\math.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\math\math\bin\Debug\math.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\math\math\obj\Debug\math.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\math\math\obj\Debug\math.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\math\math\obj\Debug\math.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\math\math\obj\Debug\math.pdb
