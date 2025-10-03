@@ -1,0 +1,8 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\2_dimensional_Arry\2_dimensional_Arry\bin\Debug\2_dimensional_Arry.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\2_dimensional_Arry\2_dimensional_Arry\bin\Debug\2_dimensional_Arry.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\2_dimensional_Arry\2_dimensional_Arry\bin\Debug\2_dimensional_Arry.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\2_dimensional_Arry\2_dimensional_Arry\obj\Debug\2_dimensional_Arry.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\2_dimensional_Arry\2_dimensional_Arry\obj\Debug\2_dimensional_Arry.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\2_dimensional_Arry\2_dimensional_Arry\obj\Debug\2_dimensional_Arry.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\2_dimensional_Arry\2_dimensional_Arry\obj\Debug\2_dimensional_Arry.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\2_dimensional_Arry\2_dimensional_Arry\obj\Debug\2_dimensional_Arry.pdb
