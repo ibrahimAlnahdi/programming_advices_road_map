@@ -1,0 +1,11 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\bin\Debug\myFirstWinFormProject.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\bin\Debug\myFirstWinFormProject.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\bin\Debug\myFirstWinFormProject.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.Form1.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.Properties.Resources.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.csproj.GenerateResource.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.pdb
