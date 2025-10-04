@@ -22,10 +22,45 @@ namespace myFirstWinFormProject
             textBox2.Text = textBox1.Text;
         }
 
-        private void Copy_on_mouse_enter(object sender, EventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
             textBox2.Text = textBox1.Text;
+            label1.Text = textBox1.Text;
 
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox1.Enabled = false;
+        }
+
+        private void button_Click(object sender, EventArgs e)
+        {
+            textBox1.Enabled = true;
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            textBox1.Visible = false;
+            // swich bettwen hide show
+            //textBox1.Enabled = textBox1.Enabled ? false : true;
+
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            textBox1.Visible =true; 
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            this.BackColor = Color.Red;  //? this.BackColor = Color.Red : this.BackColor = Color.Green;
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            this.BackColor = Color.White;
         }
     }
 }
