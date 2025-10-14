@@ -1,0 +1,11 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\bin\Debug\DateTimePicker.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\bin\Debug\DateTimePicker.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\bin\Debug\DateTimePicker.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\obj\Debug\DateTimePicker.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\obj\Debug\DateTimePicker.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\obj\Debug\DateTimePicker.Form1.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\obj\Debug\DateTimePicker.Properties.Resources.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\obj\Debug\DateTimePicker.csproj.GenerateResource.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\obj\Debug\DateTimePicker.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\obj\Debug\DateTimePicker.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\DateTimePicker\obj\Debug\DateTimePicker.pdb

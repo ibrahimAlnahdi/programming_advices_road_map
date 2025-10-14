@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcb066fb-9811-46f7-b6d5-5b31fb817fe7": {
+      "ProjectGuid": "dcb066fb-9811-46f7-b6d5-5b31fb817fe7",
+      "DisplayName": "DateTimePicker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
