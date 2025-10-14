@@ -24,7 +24,7 @@ namespace Remembarances
 
         private void frmTspeeh_Load(object sender, EventArgs e)
         {
-            
+
 
         }
         private byte counter = 0;
@@ -32,6 +32,7 @@ namespace Remembarances
         {
             timer1.Enabled = true;
             button1.Enabled = false;
+            lblProgressBarValue.Visible = true;
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -64,9 +65,16 @@ namespace Remembarances
             {
                 label1.ForeColor = Color.Black;
                 label1.Text = "والذاكرين الله كثيرًا والذاكرات ";
-                timer1.Enabled=false;
+                timer1.Enabled = false;
                 counter = 0;
                 button1.Enabled = true;
+               
+            }
+            if (counter <= 100 && counter >= 0)
+            {
+                progressBar1.Value = counter;
+                lblProgressBarValue.Text = counter.ToString() + "%";
+
             }
         }
     }

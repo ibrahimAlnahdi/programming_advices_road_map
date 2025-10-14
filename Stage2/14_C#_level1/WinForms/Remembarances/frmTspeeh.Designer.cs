@@ -32,6 +32,8 @@
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.label1 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.progressBar1 = new System.Windows.Forms.ProgressBar();
+            this.lblProgressBarValue = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // timer1
@@ -42,17 +44,18 @@
             // label1
             // 
             this.label1.Font = new System.Drawing.Font("Book Antiqua", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 18);
+            this.label1.Location = new System.Drawing.Point(110, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(228, 288);
             this.label1.TabIndex = 0;
             this.label1.Text = "والذاكرين الله كثيرًا والذاكرات";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Tahoma", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(19, 347);
+            this.button1.Location = new System.Drawing.Point(121, 314);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(215, 53);
             this.button1.TabIndex = 1;
@@ -60,17 +63,38 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // progressBar1
+            // 
+            this.progressBar1.Location = new System.Drawing.Point(24, 440);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(408, 48);
+            this.progressBar1.TabIndex = 2;
+            // 
+            // lblProgressBarValue
+            // 
+            this.lblProgressBarValue.AutoSize = true;
+            this.lblProgressBarValue.Font = new System.Drawing.Font("Tahoma", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblProgressBarValue.Location = new System.Drawing.Point(195, 396);
+            this.lblProgressBarValue.Name = "lblProgressBarValue";
+            this.lblProgressBarValue.Size = new System.Drawing.Size(67, 34);
+            this.lblProgressBarValue.TabIndex = 3;
+            this.lblProgressBarValue.Text = "0%";
+            this.lblProgressBarValue.Visible = false;
+            // 
             // frmTspeeh
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(269, 450);
+            this.ClientSize = new System.Drawing.Size(474, 500);
+            this.Controls.Add(this.lblProgressBarValue);
+            this.Controls.Add(this.progressBar1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Name = "frmTspeeh";
             this.Text = "frmTspeeh";
             this.Load += new System.EventHandler(this.frmTspeeh_Load);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -79,5 +103,7 @@
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ProgressBar progressBar1;
+        private System.Windows.Forms.Label lblProgressBarValue;
     }
 }

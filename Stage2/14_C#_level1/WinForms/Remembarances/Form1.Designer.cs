@@ -37,6 +37,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.btnStart = new System.Windows.Forms.Button();
+            this.btnMyRemebarances = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // notifyIcon1
@@ -108,15 +109,27 @@
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(141, 49);
             this.btnStart.TabIndex = 6;
-            this.btnStart.Text = "ابدأ التسبيح";
+            this.btnStart.Text = "اذكر ربك";
             this.btnStart.UseVisualStyleBackColor = true;
             this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
+            // 
+            // btnMyRemebarances
+            // 
+            this.btnMyRemebarances.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnMyRemebarances.Location = new System.Drawing.Point(347, 253);
+            this.btnMyRemebarances.Name = "btnMyRemebarances";
+            this.btnMyRemebarances.Size = new System.Drawing.Size(141, 49);
+            this.btnMyRemebarances.TabIndex = 7;
+            this.btnMyRemebarances.Text = "أذكاري";
+            this.btnMyRemebarances.UseVisualStyleBackColor = true;
+            this.btnMyRemebarances.Click += new System.EventHandler(this.btnMyRemebarances_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(536, 227);
+            this.ClientSize = new System.Drawing.Size(536, 337);
+            this.Controls.Add(this.btnMyRemebarances);
             this.Controls.Add(this.btnStart);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label3);
@@ -140,6 +153,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnStart;
+        private System.Windows.Forms.Button btnMyRemebarances;
     }
 }
 
