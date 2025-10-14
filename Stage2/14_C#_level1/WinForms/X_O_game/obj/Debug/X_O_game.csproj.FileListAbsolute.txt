@@ -1,0 +1,11 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\bin\Debug\X_O_game.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\bin\Debug\X_O_game.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\bin\Debug\X_O_game.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\obj\Debug\X_O_game.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\obj\Debug\X_O_game.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\obj\Debug\X_O_game.Form1.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\obj\Debug\X_O_game.Properties.Resources.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\obj\Debug\X_O_game.csproj.GenerateResource.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\obj\Debug\X_O_game.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\obj\Debug\X_O_game.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\X_O_game\obj\Debug\X_O_game.pdb
