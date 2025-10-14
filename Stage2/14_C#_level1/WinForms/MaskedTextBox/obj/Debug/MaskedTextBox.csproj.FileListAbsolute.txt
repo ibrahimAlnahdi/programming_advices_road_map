@@ -1,0 +1,11 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\bin\Debug\MaskedTextBox.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\bin\Debug\MaskedTextBox.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\bin\Debug\MaskedTextBox.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\obj\Debug\MaskedTextBox.Form1.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\obj\Debug\MaskedTextBox.Properties.Resources.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.GenerateResource.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\obj\Debug\MaskedTextBox.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\MaskedTextBox\obj\Debug\MaskedTextBox.pdb
