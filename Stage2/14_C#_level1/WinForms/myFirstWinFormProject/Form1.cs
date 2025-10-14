@@ -19,12 +19,12 @@ namespace myFirstWinFormProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            textBox2.Text = textBox1.Text;
+            textBox3.Text = textBox1.Text;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            textBox2.Text = textBox1.Text;
+            textBox3.Text = textBox1.Text;
             label1.Text = textBox1.Text;
 
         }
@@ -50,7 +50,7 @@ namespace myFirstWinFormProject
 
         private void button7_Click(object sender, EventArgs e)
         {
-            textBox1.Visible =true; 
+            textBox1.Visible = true;
         }
 
         private void button9_Click(object sender, EventArgs e)
@@ -61,6 +61,18 @@ namespace myFirstWinFormProject
         private void button8_Click(object sender, EventArgs e)
         {
             this.BackColor = Color.White;
+        }
+
+        private void Mouse_Enter(object sender, EventArgs e)
+        {
+            textBox3.Text = textBox1.Text;
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Are You Sure , you want to Exit ? ", "Confirm", MessageBoxButtons.YesNo, MessageBoxIcon.Question,MessageBoxDefaultButton.Button2) == DialogResult.Yes)
+                this.Close();
+
         }
     }
 }

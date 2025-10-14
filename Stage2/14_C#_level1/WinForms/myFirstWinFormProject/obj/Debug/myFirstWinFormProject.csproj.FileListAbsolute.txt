@@ -9,3 +9,5 @@ D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\
 D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.csproj.CoreCompileInputs.cache
 D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.exe
 D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.frmMain.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\myFirstWinFormProject\obj\Debug\myFirstWinFormProject.frmMessageBox.resources

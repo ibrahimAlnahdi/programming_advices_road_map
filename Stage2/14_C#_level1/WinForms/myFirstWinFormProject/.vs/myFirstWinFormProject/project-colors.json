@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37fc1d48-6820-428b-9708-91fd4208cef8": {
+      "ProjectGuid": "37fc1d48-6820-428b-9708-91fd4208cef8",
+      "DisplayName": "myFirstWinFormProject",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
