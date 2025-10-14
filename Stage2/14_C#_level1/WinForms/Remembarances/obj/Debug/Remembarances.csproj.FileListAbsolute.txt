@@ -1,0 +1,11 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\bin\Debug\Remembarances.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\bin\Debug\Remembarances.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\bin\Debug\Remembarances.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\obj\Debug\Remembarances.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\obj\Debug\Remembarances.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\obj\Debug\Remembarances.Form1.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\obj\Debug\Remembarances.Properties.Resources.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\obj\Debug\Remembarances.csproj.GenerateResource.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\obj\Debug\Remembarances.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\obj\Debug\Remembarances.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\Remembarances\obj\Debug\Remembarances.pdb
