@@ -34,7 +34,7 @@ namespace TreeView
                 item.Checked = isChecked;
                 if(item.Nodes.Count < 0)
                 {
-                    CheckedAllNodes(item, isChecked);
+                   this.CheckedAllNodes(item, isChecked);
                 }
             }    
            
