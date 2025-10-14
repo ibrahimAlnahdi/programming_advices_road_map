@@ -1,0 +1,14 @@
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\bin\Debug\pizzaProject.exe.config
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\bin\Debug\pizzaProject.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\bin\Debug\pizzaProject.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.csproj.AssemblyReference.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.csproj.SuggestedBindingRedirects.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.Form1.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.Properties.Resources.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.csproj.GenerateResource.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.csproj.CoreCompileInputs.cache
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.exe
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.pdb
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.frmOrderPizza.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.Form2.resources
+D:\Programing_Advices\programming_advices_road_map\Stage2\14_C#_level1\WinForms\pizzaProject\obj\Debug\pizzaProject.frmMenue.resources
