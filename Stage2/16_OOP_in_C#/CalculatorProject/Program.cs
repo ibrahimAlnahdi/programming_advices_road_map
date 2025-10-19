@@ -11,7 +11,7 @@ namespace CalculatorProject
         private double _Value  = 0;
         private string _lastOperation;
         private double _lastNumber;
-
+        
         private bool _IsZero(double number)
         {
             return number == 0;
